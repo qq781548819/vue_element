@@ -2,12 +2,13 @@
 使用vue的技术栈写的vue开发框架
 本意是构建一个vue的全套餐开发环境的demo，通过借鉴vue史上最牛的[开源框架](https://github.com/bailicangdu/vue2-elm)而来，学习的记录项目，感谢这些伟大的开源大神。
 
-##技术栈
+# 技术栈
+
 
 vue2 + vuex + vue-router + axios + webpack + ES6/7  + sass + flex + iconfont +babel
 
 
-##项目运行
+# 项目运行
 
 使用的新特性需要运行在node版本>6
 
@@ -48,6 +49,6 @@ node app.js
 访问 http://localhost:3001/
 ```
 
-#效果演示
+# 效果演示
 
 [查看demo请戳这里](http://120.77.83.195:3001/#/)（请用chrome手机模式预览）
