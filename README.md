@@ -52,3 +52,15 @@ node app.js
 # 效果演示
 
 [查看demo请戳这里](http://120.77.83.195:3001/#/)（请用chrome手机模式预览）
+
+# 页面布局
+
+采用scss配合[轻量级flex框架](http://lzxb.name/flex.css/)，实现快速布局
+
+# 网络请求
+
+使用vue作者尤大推荐的axios，封装token授权验证，服务器响应数据结构解构等，之后会封装个全局状态信息页，动态展示异常状况。
+使用async/await方案，同步流写法。[大牛](https://github.com/bailicangdu)，我偶像啊，我也好想像他一样用javascript实现，全端项目，有空的读者可以帮我看看我封装的[node开发框架]()
+
+
+
