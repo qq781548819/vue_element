@@ -60,7 +60,7 @@ node app.js
 # 网络请求
 
 使用vue作者尤大推荐的axios，封装token授权验证，服务器响应数据结构解构等，之后会封装个全局状态信息页，动态展示异常状况。
-使用async/await方案，同步流写法。[大牛](https://github.com/bailicangdu)，我偶像啊，我也好想像他一样用javascript实现，全端项目，有空的读者可以帮我看看我封装的[node开发框架]()
+使用async/await方案，同步流写法。[大牛](https://github.com/bailicangdu)，我偶像啊，我也好想像他一样用javascript实现，全端项目，有空的读者可以帮我看看我封装的[node开发框架](https://github.com/qq781548819/ASimpleServerArchitecture)比较差劲，实现了jwt的授权，mysql的封装，期待分享一些好的后台框架来借鉴，想要一个企业级node架构。努力学习中..
 
 
 
