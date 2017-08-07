@@ -1,0 +1,23 @@
+export default [{
+  "id": 33,
+  "address": "摩尔城A",
+  "phone": "14787471800",
+  "phone_bk": "",
+  "name": "斯蒂芬撒",
+  "st_geohash": "26.23305,105.88201",
+  "address_detail": "的发发发撒",
+  "tag_type": 1,
+  "user_id": 1,
+  "phone_had_bound": true,
+  "deliver_amount": 0,
+  "agent_fee": 0,
+  "is_deliverable": true,
+  "is_user_default": true,
+  "tag": "范德萨",
+  "city_id": 1,
+  "sex": 1,
+  "poi_type": 0,
+  "created_at": "2017-05-31T13:36:35.787Z",
+  "is_valid": 1,
+  "__v": 0
+}]

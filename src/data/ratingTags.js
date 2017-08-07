@@ -1,0 +1,56 @@
+export default [{
+  "name": "全部",
+  "_id": "592d36916f51bc083e47e496",
+  "unsatisfied": false,
+  "count": 473
+}, {
+  "name": "满意",
+  "_id": "592d36916f51bc083e47e495",
+  "unsatisfied": false,
+  "count": 453
+}, {
+  "name": "不满意",
+  "_id": "592d36916f51bc083e47e494",
+  "unsatisfied": true,
+  "count": 20
+}, {
+  "name": "有图",
+  "_id": "592d36916f51bc083e47e493",
+  "unsatisfied": false,
+  "count": 2
+}, {
+  "name": "味道好",
+  "_id": "592d36916f51bc083e47e492",
+  "unsatisfied": false,
+  "count": 47
+}, {
+  "name": "送货快",
+  "_id": "592d36916f51bc083e47e491",
+  "unsatisfied": false,
+  "count": 32
+}, {
+  "name": "分量足",
+  "_id": "592d36916f51bc083e47e490",
+  "unsatisfied": false,
+  "count": 18
+}, {
+  "name": "包装精美",
+  "_id": "592d36916f51bc083e47e48f",
+  "unsatisfied": false,
+  "count": 15
+}, {
+  "name": "干净卫生",
+  "_id": "592d36916f51bc083e47e48e",
+  "unsatisfied": false,
+  "count": 15
+}, {
+  "name": "食材新鲜",
+  "_id": "592d36916f51bc083e47e48d",
+  "unsatisfied": false,
+  "count": 15
+}, {
+  "name": "服务不错",
+  "_id": "592d36916f51bc083e47e48c",
+  "unsatisfied": false,
+  "count": 11
+}]
