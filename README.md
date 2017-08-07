@@ -48,3 +48,6 @@ node app.js
 访问 http://localhost:3001/
 ```
 
+#效果演示
+
+[查看demo请戳这里](!http://120.77.83.195:3001/#/)（请用chrome手机模式预览）
